@@ -5,7 +5,6 @@ import re
 import folium
 from haversine import haversine
 import plotly.graph_objects as go
-import jupyterlab_dash
 import streamlit as st
 import datetime as dt
 from PIL import Image
